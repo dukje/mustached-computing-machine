@@ -1,1 +1,1 @@
-This repo is just for test on GitHub Hooks etc
+This repo is just for tests on GitHub Hooks etc
